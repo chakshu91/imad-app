@@ -10,7 +10,7 @@ app.get('/', function (req, res){
 });
 
 APP.GET('/ARTICLE ONE',FUNCTION (req,res){
-    res,send('Article one requested and will be server here');
+    res.sendFile(path.join(__dirname, 'ui', 'Article-one.html'));
     
     APP.GET('/ARTICLE ONE',FUNCTION (req,res){
     res,send('Article one requested and will be server here');
@@ -34,3 +34,4 @@ var port = 80;
 app.listen(port, function () {
   console.log(`IMAD course app listening on port ${port}!`);
 });
+  
