@@ -12,21 +12,13 @@ heading:'Article one',
 date:'9 Aug 2017',
 content:
 <p>
-
 This is my first article.
-
 </p>
-
 <p>
-
 This is my first article. 
-
 </p>
-
 <p>
-
 This is my first article. 
-
 </p>
 };
 
