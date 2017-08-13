@@ -10,8 +10,8 @@ var articleone={
 title:'article one|Chakshu Sharad',
 heading:'Article one',
 date:'9 Aug 2017',
-content:
-<p>
+content:`
+ <p>
 This is my first article.
 </p>
 <p>
