@@ -1,5 +1,5 @@
 // Move the image 
-var img = documentgetElementByid('chakshu');
+var img = document.getElementByid('chakshu');
 var marginLeft = 0;
 function moveRight () {
 marginLeft = marginLeft + 10;
